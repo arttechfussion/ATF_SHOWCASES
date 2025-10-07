@@ -1,6 +1,6 @@
 # ATF Showcase Configuration
 # Replace APP_SCRIPT_URL with your Google Apps Script Web App URL
-APP_SCRIPT_URL=https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec
+APP_SCRIPT_URL=https://script.google.com/macros/s/AKfycbz03TaFtno5GGb728D_hgfG8ZJxxpcZTPDe5cV6YCcCVOW1wSCkpvRIWPssC5XtxSFb/exec
 
 # Google Drive Folder ID for images
 DRIVE_FOLDER_ID=1jQIWqzcCGcrkZx_wB1mScl7RhpaHR6Bv
